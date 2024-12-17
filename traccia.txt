@@ -1,0 +1,4 @@
+-- Abbiamo una libreria
+-- con nome
+-- cognome fondatore
+-- e anno di fondazione
